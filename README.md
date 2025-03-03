@@ -6,19 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita-rm&label=Profile%20views&color=0e75b6&style=flat" alt="rishita-rm" /> </p>
 
-- 🔭 I’m currently working on **NLP Medical Report Summarization**
-
-- 🌱 I’m currently learning **Data Analytics, deep learning**
 
 - 👯 I’m looking to collaborate on **Github, Linkedin**
 
-- 🤝 I’m looking for help with **NLP Medical Report Summarization**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Rishita-rm](https://github.com/Rishita-rm)
 
-- 💬 Ask me about **react, ML**
-
-- 📫 How to reach me **rishitamakkar0777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
