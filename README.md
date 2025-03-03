@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita-rm&label=Profile%20views&color=0e75b6&style=flat" alt="rishita-rm" /> </p>
 
-
-- 👯 I’m looking to collaborate on **Github, Linkedin**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Rishita-rm](https://github.com/Rishita-rm)
 
 
