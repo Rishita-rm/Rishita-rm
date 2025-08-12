@@ -94,7 +94,7 @@ With expertise spanning **data wrangling, exploratory analysis, predictive model
 
 ## 🌍 Let’s Connect
 <p align="center">
-  <a href="www.linkedin.com/in/rishita-makkar-256851291/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rishita-makkar-256851291/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:rishitamakkar0777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/rishu_.04"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
