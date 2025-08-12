@@ -16,7 +16,7 @@ With expertise spanning **data wrangling, exploratory analysis, predictive model
 - 🔭 Currently working on **AI-powered Data Analytics Dashboards**  
 - 🌱 Exploring **Cloud Data Engineering & Generative AI**  
 - 🎯 Goal: Build tools that make data insights as intuitive as reading a headline  
-- 📫 Reach me: **[rishitamakkar04@gmail.com](mailto:rishitamakkar04@gmail.com)**  
+- 📫 Reach me: **[rishitamakkar0777@gmail.com](mailto:rishitamakkar0777@gmail.com)**  
 
 ---
 
@@ -96,7 +96,6 @@ With expertise spanning **data wrangling, exploratory analysis, predictive model
 ## 🌍 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/rishitamakkar/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://kaggle.com/rishitamakkar"><img src="https://cdn.worldvectorlogo.com/logos/kaggle.svg" height="40"/></a>
   <a href="mailto:rishitamakkar04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/rishu_.04"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
