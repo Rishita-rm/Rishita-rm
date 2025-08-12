@@ -54,22 +54,21 @@ With expertise spanning **data wrangling, exploratory analysis, predictive model
 
 ---
 
-## 📂 Featured Work
+## 🚀 Featured & Notable Projects
 
-### 🏆 **Sales Forecast Dashboard**
-> An ML-driven dashboard that predicts sales trends and supports strategic inventory planning.  
-**Tech:** Python, Pandas, Plotly, Power BI  
-[🔗 View Project](#)
-
-### 🧠 **Customer Segmentation Engine**
-> Clustering algorithm to segment e-commerce customers for targeted marketing.  
-**Tech:** Scikit-learn, Tableau, SQL  
-[🔗 View Project](#)
-
-### 💬 **Social Media Sentiment Analysis**
-> NLP-powered sentiment tracker for Twitter data to spot trends and crises early.  
-**Tech:** Python, NLTK, Seaborn  
-[🔗 View Project](#)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Grammar Spell Checker (Flask NLP)**](https://github.com/Rishita-rm/Grammar-Spell-checker-flask-nlp) | NLP-based grammar and spell-check application using Flask API. | Python, Flask, NLP |
+| [**Named Entity Recognition App**](https://github.com/Rishita-rm/Named-Entity-Recognition-App-spacy-flask) | Entity extraction web app with spaCy and Flask backend. | Python, spaCy, Flask |
+| [**Resume Classifier (Streamlit NLP)**](https://github.com/Rishita-rm/Resume-Classifier-nlp-streamlit) | Classifies resumes into categories using NLP models and Streamlit UI. | Python, Streamlit, NLP |
+| [**InsightX: AI-Powered Business Intelligence Dashboard**](https://github.com/Rishita-rm/InsightX-AI-Powered-Business-Intelligence-Dashboard) | AI-driven dashboard for real-time business analytics. | Python, ML, Power BI |
+| [**Sales Data Analytics**](https://github.com/Rishita-rm/Sales_DataAnalytics) | Exploratory and predictive analytics on retail sales data. | Python, Pandas, Plotly |
+| [**Political News Sentiment Analysis**](https://github.com/Rishita-rm/Sentiment-Analysis-of-Political-News) | Detects sentiment polarity in political news articles. | Python, NLP, Seaborn |
+| [**Time Series Forecasting**](https://github.com/Rishita-rm/Time-Series-Forecasting-In-Python) | Predictive modeling for time-dependent datasets. | Python, Statsmodels, Prophet |
+| [**Chest X-ray Disease Classification**](https://github.com/Rishita-rm/Chest-X-ray-Disease-Classification-using-Deep-Learning) | CNN model for detecting diseases from X-ray images. | Python, TensorFlow, Keras |
+| [**Tic Tac Toe Mastermind**](https://github.com/Rishita-rm/TicTacToe-Mastermind) | AI-powered unbeatable Tic Tac Toe game. | Python, Minimax Algorithm |
+| [**SONAR Rock vs Mine Prediction**](https://github.com/Rishita-rm/SONAR-Rock-vs-Mine-Prediction-with-Python) | Predicts whether sonar returns are from mines or rocks. | Python, Scikit-learn |
+| [**Music Store Data Analysis (SQL)**](https://github.com/Rishita-rm/Music-Store-Data-Analysis-Project-using-SQL) | SQL-based data analysis of a music store database. | SQL, MySQL |
 
 ---
 
