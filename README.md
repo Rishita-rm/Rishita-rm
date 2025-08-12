@@ -11,68 +11,85 @@
 ## 📌 About Me
 
 💡 **I turn complex datasets into clear, actionable insights.**  
-With expertise in **data wrangling, exploratory analysis, predictive modeling**, and **visual storytelling**, I build solutions that make data work harder and smarter.  
+With expertise spanning **data wrangling, exploratory analysis, predictive modeling**, and **data visualization**, I combine analytical rigor with creative presentation. My work empowers decision-makers to move from data to strategy faster.  
 
-- 🔭 Currently: **AI-powered Data Analytics Dashboards**  
-- 🌱 Learning: **Cloud Data Engineering & Generative AI**  
-- 🛠 Passion: **Data Pipelines, ML Models, Interactive Dashboards**  
-- 📫 Reach: **[rishitamakkar0777@gmail.com](mailto:rishitamakkar0777@gmail.com)**  
+- 🔭 Currently working on **AI-powered Data Analytics Dashboards**  
+- 🌱 Exploring **Cloud Data Engineering & Generative AI**  
+- 🎯 Goal: Build tools that make data insights as intuitive as reading a headline  
+- 📫 Reach me: **[rishitamakkar0777@gmail.com](mailto:rishitamakkar0777@gmail.com)**  
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Skill Arsenal
 
-### **Languages & Data**
-<img src="https://skillicons.dev/icons?i=python,r,sql,typescript,javascript" />
+### **Core Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,sql,typescript,javascript" />
+</p>
 
-### **ML & Data Science**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/> 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+### **Data Science & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/> 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+</p>
 
-### **Visualization**
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/> 
-<img src="https://skillicons.dev/icons?i=d3" />
+### **Visualization & BI Tools**
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=d3" />
+</p>
 
 ### **Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws,gcp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws,gcp" />
+</p>
+
+### **Development Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
-<!-- Optionally pull latest pinned repos dynamically -->
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Sales Forecast Dashboard** | ML-driven dashboard predicting sales trends. | Python, Pandas, Plotly |
-| **Customer Segmentation** | ML clustering for e-commerce marketing. | Scikit-learn, Tableau |
-| **Twitter Sentiment Analysis** | NLP pipeline for sentiment trends. | Python, NLTK |
+## 📂 Featured Work
+
+### 🏆 **Sales Forecast Dashboard**
+> An ML-driven dashboard that predicts sales trends and supports strategic inventory planning.  
+**Tech:** Python, Pandas, Plotly, Power BI  
+[🔗 View Project](#)
+
+### 🧠 **Customer Segmentation Engine**
+> Clustering algorithm to segment e-commerce customers for targeted marketing.  
+**Tech:** Scikit-learn, Tableau, SQL  
+[🔗 View Project](#)
+
+### 💬 **Social Media Sentiment Analysis**
+> NLP-powered sentiment tracker for Twitter data to spot trends and crises early.  
+**Tech:** Python, NLTK, Seaborn  
+[🔗 View Project](#)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Data-Driven GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishita-rm&show_icons=true&theme=algolia" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita-rm&layout=compact&theme=algolia" height="180">
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rishita-rm&theme=algolia&hide_border=true" />
 </p>
 
 ---
 
-## 📝 Latest Activity (Auto-updating)
-<!--START_SECTION:activity-->
-<!-- Dynamic GitHub commits will appear here -->
-<!--END_SECTION:activity-->
-
----
-
-## 📚 Latest Kaggle Work
-<!--START_SECTION:kaggle-->
-<!-- Dynamic Kaggle notebooks will appear here -->
-<!--END_SECTION:kaggle-->
+## 📈 Contribution & Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishita-rm&theme=react-dark" />
+</p>
 
 ---
 
@@ -84,11 +101,4 @@ With expertise in **data wrangling, exploratory analysis, predictive modeling**,
 </p>
 
 ---
-
-<p align="center">
-  <em>📢 “Data is the new oil, but only if you can refine it.”</em>  
-</p>
-
-<p align="center">
-  <sub>Last Updated: <!--LAST_UPDATED--></sub>
-</p>
+<p align="center"><em>📢 “Data is the new oil, but only if you can refine it.”</em></p>
