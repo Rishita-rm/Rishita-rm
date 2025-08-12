@@ -3,56 +3,43 @@
   <img src="https://github.com/Rishita-rm/Rishita-rm/blob/main/Github%20Banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rishita Makkar</h1>
-<h3 align="center">🚀 Data Analyst | Problem Solver | Lifelong Learner</h3>
-<p align="center">Turning raw data into impactful insights, one dataset at a time 📊✨</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishita-rm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-  <a href="mailto:rishitamakkar04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/rishitamakkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishita%20Makkar-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://kaggle.com/rishitamakkar">
-    <img src="https://img.shields.io/badge/Kaggle-Rishita%20Makkar-blue?style=flat&logo=kaggle" alt="Kaggle">
-  </a>
-</p>
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff6600;">Rishita Makkar</span></h1>
+<h3 align="center">Data Analyst • Machine Learning Enthusiast • Storyteller with Data</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## 📌 About Me
 
-- 🎯 Passionate about **data analytics, visualization, and predictive modeling**.
-- 📊 Skilled in transforming raw data into **actionable insights**.
-- 🌱 Currently exploring **Cloud Data Engineering** & **Generative AI for analytics**.
-- 🛠 Love working with **end-to-end data pipelines** from ETL to dashboarding.
-- 💬 Ask me about **Python, SQL, Machine Learning, and Data Visualization**.
-- 🌍 Based in **India** and open to remote collaborations.
-- ⚡ Fun fact: I can make sense of *messy spreadsheets* faster than most people find their coffee mug in the morning.
+💡 **I turn complex datasets into clear, actionable insights.**  
+With expertise spanning **data wrangling, exploratory analysis, predictive modeling**, and **data visualization**, I combine analytical rigor with creative presentation. My work empowers decision-makers to move from data to strategy faster.  
+
+- 🔭 Currently working on **AI-powered Data Analytics Dashboards**  
+- 🌱 Exploring **Cloud Data Engineering & Generative AI**  
+- 🎯 Goal: Build tools that make data insights as intuitive as reading a headline  
+- 📫 Reach me: **[rishitamakkar04@gmail.com](mailto:rishitamakkar04@gmail.com)**  
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skill Arsenal
 
-### **Programming & Data**
+### **Core Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,sql,typescript,javascript,java" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,typescript,javascript" />
 </p>
 
-### **Data Science & ML**
+### **Data Science & Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> 
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/> 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
 </p>
 
-### **Visualization**
+### **Visualization & BI Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=tableau,plotly,d3" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=d3" />
 </p>
 
 ### **Databases & Cloud**
@@ -60,47 +47,59 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws,gcp" />
 </p>
 
-### **Web Development**
+### **Development Stack**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Work
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Sales Forecast Dashboard**](#) | Predictive model + interactive dashboard to forecast retail sales. | Python, Pandas, Plotly, Power BI |
-| [**Customer Segmentation**](#) | ML clustering on e-commerce customers for marketing strategy. | Scikit-learn, Seaborn, Tableau |
-| [**Social Media Sentiment Analysis**](#) | Analyzing Twitter data to detect sentiment trends. | Python, NLP, Tweepy |
+### 🏆 **Sales Forecast Dashboard**
+> An ML-driven dashboard that predicts sales trends and supports strategic inventory planning.  
+**Tech:** Python, Pandas, Plotly, Power BI  
+[🔗 View Project](#)
 
----
+### 🧠 **Customer Segmentation Engine**
+> Clustering algorithm to segment e-commerce customers for targeted marketing.  
+**Tech:** Scikit-learn, Tableau, SQL  
+[🔗 View Project](#)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishita-rm&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita-rm&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishita-rm&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 💬 **Social Media Sentiment Analysis**
+> NLP-powered sentiment tracker for Twitter data to spot trends and crises early.  
+**Tech:** Python, NLTK, Seaborn  
+[🔗 View Project](#)
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 Data-Driven GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishita-rm&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishita-rm&show_icons=true&theme=algolia" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita-rm&layout=compact&theme=algolia" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishita-rm&theme=algolia&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution & Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishita-rm&theme=react-dark" />
+</p>
+
+---
+
+## 🌍 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/rishitamakkar/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://kaggle.com/rishitamakkar"><img src="https://cdn.worldvectorlogo.com/logos/kaggle.svg" height="40"/></a>
   <a href="mailto:rishitamakkar04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/rishu_.04"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+
+---
+<p align="center"><em>📢 “Data is the new oil, but only if you can refine it.”</em></p>
